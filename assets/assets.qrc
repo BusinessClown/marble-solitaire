@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/assets">
+        <file>french.png</file>
+        <file>jcwiegleb.png</file>
+        <file>asymmetrical.png</file>
+        <file>english.png</file>
+        <file>diamond.png</file>
+        <file>triangle.png</file>
+        <file>standard.png</file>
+        <file>random.png</file>
+    </qresource>
+</RCC>
